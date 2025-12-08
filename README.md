@@ -3,8 +3,6 @@
 ## Project Overview
 Churn Sentinel is a predictive analytics system designed for SaaS businesses. It identifies customers at risk of churn and automatically generates personalized retention actions using AI agents and ML models.
 
----
-
 ## Week 1 — Data Collection & Exploratory Data Analysis (EDA)
 
 **Goal:**  
