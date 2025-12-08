@@ -25,7 +25,6 @@ Prepare clean datasets and understand customer behavior patterns.
 - EDA report or notebook  
 - Feature engineering plan for Week 2  
 
----
 
 ## Week 2 — Feature Engineering & Baseline Model
 
