@@ -49,7 +49,7 @@ Engineer predictive features and build an XGBoost baseline model.
 - Evaluation metrics report  
 - Reproducible training script  
 
----
+
 
 ## Week 3 — Prediction Pipeline & Behavior Change Detector
 
@@ -70,7 +70,7 @@ Implement daily prediction flow and integrate Behavior Change Detector Agent.
 - Behavior Change Detector outputs integrated  
 - SHAP visualizations  
 
----
+
 
 ## Week 4 — GPT Email Generator & SendGrid Integration
 
@@ -88,7 +88,7 @@ Automate personalized retention emails for high-risk users.
 - Successful sandbox email sends  
 - Templates ready for production automation  
 
----
+
 
 ## Week 5 — AI Agents: Discount Recommendation & Retention Planner
 
@@ -112,7 +112,7 @@ Enhance retention strategy with high-impact AI agents.
 - `planner_agent.py`  
 - Fully integrated daily pipeline with AI agents  
 
----
+
 
 ## Week 6 — Automation & Conversational Dashboard Assistant
 
@@ -133,7 +133,7 @@ Orchestrate end-to-end pipeline and add a GPT-powered mini chat assistant.
 - Interactive dashboard with chat assistant  
 - GPT function-calling queries integrated  
 
----
+
 
 ## Optional Week 7 — Polishing & Monitoring
 
@@ -152,7 +152,7 @@ Enhance production readiness and analytics.
 - Logs and analytics  
 - Demo screenshots  
 
----
+
 
 ## Optional Week 8 — Advanced Improvements
 
@@ -170,7 +170,7 @@ Extend AI capabilities for scalability and experimentation.
 - LTV-based prioritization in agents  
 - Automated retraining workflow  
 
----
+
 
 ## ✅ Summary of AI Agents and Features by Week
 
